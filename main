@@ -1,1 +1,11 @@
-/
+// C software rasterizer
+
+#include <stdio.h>
+
+int main(void) {
+
+printf("Let's get vert-ical!");
+
+return 0;
+
+}
