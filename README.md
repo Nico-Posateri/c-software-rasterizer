@@ -1,7 +1,7 @@
 # C Software Rasterizer
 
 A C software for real-time rasterization, featuring models made in Blender.
-![matter_from_matrix](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/2143c018-f3ea-49bd-91c0-5af6d84cf840)
+![incoming_geometry](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/fedfddc0-495b-4087-99a2-29c4ce033b68)
 
 > [!NOTE]
 > This is a WIP.
