@@ -2,6 +2,7 @@
 
 A C software for real-time rasterization, featuring models made in Blender.
 ![incoming_geometry](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/fedfddc0-495b-4087-99a2-29c4ce033b68)
+![rasterized-cube-wireframe](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/72019961-150f-4a07-8afb-d35ed1d6039a)
 
 > [!NOTE]
 > This is a WIP.
