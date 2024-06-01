@@ -27,10 +27,10 @@ The following is a list of key inputs and their functions:
 - **6** - Renders the mesh textured
 - **7** - Renders the mesh textured with a wireframe
 - **8** - Renders the mesh textured with a wireframe and vertices
-- &#8593; - (Up Arrow) Rotates the camera up
-- &#8591; - (Down Arrow) Rotates the camera down
-- &#8592; - (Left Arrow) Rotates the camera left
-- &#8594; - (Right Arrow) Rotates the camera right
+- &#8593; - Rotates the camera up
+- &#8595; - Rotates the camera down
+- &#8592; - Rotates the camera left
+- &#8594; - Rotates the camera right
 
 ## Additional Information
 
