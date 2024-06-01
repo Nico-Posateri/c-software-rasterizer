@@ -16,17 +16,17 @@ A simple C software for real-time rasterization, featuring models made in Blende
 This engine uses [SDL2](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5), as well as [elanthis' upng](https://github.com/elanthis/upng), a png decoder for the custom jet texture created by Artem Katrych.
 
 The following is a list of key inputs and their functions:
-**esc** - Closes the program
-**c** - Culls backfaces
-**d** - Renders backfaces
-**1** - Renders the mesh wireframe with vertices
-**2** - Renders the mesh wireframe
-**3** - Renders the mesh with filled faces
-**4** - Renders the mesh wireframe with filled faces
-**5** - Renders the mesh wireframe with filled faces and vertices
-**6** - Renders the mesh textured
-**7** - Renders the mesh textured with a wireframe
-**8** - Renders the mesh textured with a wireframe and vertices
+- **esc** - Closes the program
+- **c** - Culls backfaces
+- **d** - Renders backfaces
+- **1** - Renders the mesh wireframe with vertices
+- **2** - Renders the mesh wireframe
+- **3** - Renders the mesh with filled faces
+- **4** - Renders the mesh wireframe with filled faces
+- **5** - Renders the mesh wireframe with filled faces and vertices
+- **6** - Renders the mesh textured
+- **7** - Renders the mesh textured with a wireframe
+- **8** - Renders the mesh textured with a wireframe and vertices
 
 ## Additional Information
 
