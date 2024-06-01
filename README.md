@@ -1,6 +1,6 @@
 # C Software Rasterizer
 
-A simple C software for real-time rasterization, featuring models made in Blender.
+A simple C software for real-time rasterization, featuring models made in Blender. &#8593;
 
 ![cube-steps](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/4f530095-8d02-4f2c-9747-43af5d66acf9)
 <sup>A cube showcasing a wireframe volume, backface culling, shaded faces, affine texture mapping, perspective corrected textures, and correctly inverted UVs. The texture featured is an unused asset produced by **Rare Limited** for *Banjo Tooie* on the N64.</sup>
