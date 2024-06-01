@@ -13,7 +13,7 @@ A simple C software for real-time rasterization, featuring models made in Blende
 
 ## Directory Information
 
-This engine uses [SDL2](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5), as well as [elanthis' upng](https://github.com/elanthis/upng), a png decoder for the custom jet texture created by Artem Katrych.
+This engine uses [SDL2](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5), as well as [elanthis' upng](https://github.com/elanthis/upng), a png decoder for custom textures. By default, the program will render a static cube with a hardcoded 64x64 red brick texture from **id Software's** *Wolfenstein 3D*.
 
 The following is a list of key inputs and their functions:
 - **esc** - Closes the program
