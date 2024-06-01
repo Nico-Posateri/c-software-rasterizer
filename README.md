@@ -9,11 +9,24 @@ A simple C software for real-time rasterization, featuring models made in Blende
 <sup>A jet showcasing a more complex, textured mesh rotating. F22 model and texture created by Artem Katrych.</sup>
 
 > [!NOTE]
-> I am planning on implementing parallel and subpixel rasterization before uploading this project.
+> I am planning on implementing parallel and subpixel rasterization before uploading this project, as well as camera manipulation and support for multiple meshes.
 
 ## Directory Information
 
 This engine uses [SDL2](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5), as well as [elanthis' upng](https://github.com/elanthis/upng), a png decoder for the custom jet texture created by Artem Katrych.
+
+The following is a list of key inputs and their functions:
+**esc** - Closes the program
+**c** - Culls backfaces
+**d** - Renders backfaces
+**1** - Renders the mesh wireframe with vertices
+**2** - Renders the mesh wireframe
+**3** - Renders the mesh with filled faces
+**4** - Renders the mesh wireframe with filled faces
+**5** - Renders the mesh wireframe with filled faces and vertices
+**6** - Renders the mesh textured
+**7** - Renders the mesh textured with a wireframe
+**8** - Renders the mesh textured with a wireframe and vertices
 
 ## Additional Information
 
