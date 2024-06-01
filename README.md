@@ -1,6 +1,6 @@
 # C Software Rasterizer
 
-A simple C software for real-time rasterization, featuring models made in Blender. &#8593;
+A simple C software for real-time rasterization, featuring models made in Blender.
 
 ![cube-steps](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/4f530095-8d02-4f2c-9747-43af5d66acf9)
 <sup>A cube showcasing a wireframe volume, backface culling, shaded faces, affine texture mapping, perspective corrected textures, and correctly inverted UVs. The texture featured is an unused asset produced by **Rare Limited** for *Banjo Tooie* on the N64.</sup>
@@ -27,10 +27,10 @@ The following is a list of key inputs and their functions:
 - **6** - Renders the mesh textured
 - **7** - Renders the mesh textured with a wireframe
 - **8** - Renders the mesh textured with a wireframe and vertices
-- **^** - (Up Arrow) Rotates the camera up
-- **v** - (Down Arrow) Rotates the camera down
-- **<** - (Left Arrow) Rotates the camera left
-- **>** - (Right Arrow) Rotates the camera right
+- &#8593; - (Up Arrow) Rotates the camera up
+- &#8592; - (Down Arrow) Rotates the camera down
+- &#8594; - (Left Arrow) Rotates the camera left
+- &#8591; - (Right Arrow) Rotates the camera right
 
 ## Additional Information
 
