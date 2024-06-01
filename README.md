@@ -9,7 +9,7 @@ A simple C software for real-time rasterization, featuring models made in Blende
 <sup>A jet showcasing a more complex, textured mesh rotating. F22 model and texture created by Artem Katrych.</sup>
 
 > [!NOTE]
-> I am planning on implementing parallel and subpixel rasterization before uploading this project, as well as camera manipulation and support for multiple meshes.
+> I am planning on implementing parallel and subpixel rasterization before uploading this project, as well as support for multiple meshes.
 
 ## Directory Information
 
@@ -27,6 +27,10 @@ The following is a list of key inputs and their functions:
 - **6** - Renders the mesh textured
 - **7** - Renders the mesh textured with a wireframe
 - **8** - Renders the mesh textured with a wireframe and vertices
+- **^** - (Up Arrow) Rotates the camera up
+- **v** - (Down Arrow) Rotates the camera down
+- **<** - (Left Arrow) Rotates the camera left
+- **>** - (Right Arrow) Rotates the camera right
 
 ## Additional Information
 
