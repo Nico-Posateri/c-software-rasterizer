@@ -17,6 +17,12 @@ This engine uses [SDL2](https://github.com/libsdl-org/SDL/releases/tag/release-2
 
 The following is a list of key inputs and their functions:
 - **esc** - Closes the program
+- **w** - Moves the camera forward
+- **a** - Rotates the camera left
+- **s** - Moves the camera backward
+- **d** - Rotates the camera right
+- &#8593; - Raises the camera
+- &#8595; - Lowers the camera
 - **c** - Culls backfaces
 - **d** - Renders backfaces
 - **1** - Renders the mesh wireframe with vertices
@@ -27,10 +33,6 @@ The following is a list of key inputs and their functions:
 - **6** - Renders the mesh textured
 - **7** - Renders the mesh textured with a wireframe
 - **8** - Renders the mesh textured with a wireframe and vertices
-- &#8593; - Rotates the camera up
-- &#8595; - Rotates the camera down
-- &#8592; - Rotates the camera left
-- &#8594; - Rotates the camera right
 
 ## Additional Information
 
