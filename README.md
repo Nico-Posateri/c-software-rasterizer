@@ -24,7 +24,7 @@ The following is a list of key inputs and their functions:
 - &#8593; - Raises the camera
 - &#8595; - Lowers the camera
 - **c** - Culls backfaces
-- **d** - Renders backfaces
+- **r** - Renders backfaces
 - **1** - Renders the mesh wireframe with vertices
 - **2** - Renders the mesh wireframe
 - **3** - Renders the mesh with filled faces
