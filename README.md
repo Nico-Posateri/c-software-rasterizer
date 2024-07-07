@@ -11,6 +11,7 @@ A simple C software for real-time rasterization, featuring models made in Blende
 ![jet-clip](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/2e09ad29-9f37-4e38-988c-6d4a6294d991)
 <sup>A jet showcasing the implementation of clipping, camera manipulation, and a custom render resolution for mid-90s flair.</sup>
 
+![ramen](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/84ac1fd3-f7ff-41b0-97db-7fa2923667e5)
 <sup>A Kamurochō meal showcasing the implementation of multiple textured meshes. Ramen has never looked so good.</sup>
 
 > [!NOTE]
