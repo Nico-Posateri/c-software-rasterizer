@@ -8,6 +8,7 @@ A simple C software for real-time rasterization, featuring models made in Blende
 ![jet-steps](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/89d56d30-f8f9-4136-a446-62b205fac922)
 <sup>A jet showcasing a more complex, textured mesh rotating. F22 model and texture created by Artem Katrych.</sup>
 
+![jet-clip](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/2e09ad29-9f37-4e38-988c-6d4a6294d991)
 <sup>A jet showcasing the implementation of clipping, camera manipulation, and a custom render resolution for mid-90s flair.</sup>
 
 <sup>A Kamurochō meal showcasing the implementation of multiple textured meshes. Ramen has never looked so good.</sup>
