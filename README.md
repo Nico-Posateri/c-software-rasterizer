@@ -2,6 +2,10 @@
 
 A simple C software for real-time rasterization, featuring models made in Blender.
 
+![c-3d-rasterizer](https://github.com/user-attachments/assets/9da40ee3-e980-498e-9590-33a7b170af7f)
+> [!NOTE]
+> I would eventually like to return to this to implement a parallel / subpixel rasterization method.
+
 ![cube-steps](https://github.com/Nico-Posateri/c-software-rasterizer/assets/141705409/4f530095-8d02-4f2c-9747-43af5d66acf9)
 <sup>A cube showcasing a wireframe volume, backface culling, shaded faces, affine texture mapping, perspective corrected textures, and correctly inverted UVs. The texture featured is an unused asset produced by **Rare Limited** for *Banjo Tooie* on the N64.</sup>
 
@@ -36,8 +40,6 @@ The following is a list of key inputs and their functions:
 - **6** - Renders the mesh textured
 - **7** - Renders the mesh textured with a wireframe
 - **8** - Renders the mesh textured with a wireframe and vertices
-
-I would eventually like to return to this to implement a parallel / subpixel rasterization method.
 
 ## Additional Information
 
