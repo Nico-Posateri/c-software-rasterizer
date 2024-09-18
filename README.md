@@ -37,6 +37,8 @@ The following is a list of key inputs and their functions:
 - **7** - Renders the mesh textured with a wireframe
 - **8** - Renders the mesh textured with a wireframe and vertices
 
+I would eventually like to return to this to implement a parallel / subpixel rasterization method.
+
 ## Additional Information
 
 [Computer Graphics Programming course](https://pikuma.com/courses/learn-3d-computer-graphics-programming) taught by [Gustavo Pezzi](https://github.com/gustavopezzi).
