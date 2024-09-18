@@ -2,7 +2,7 @@
 
 A simple C software for real-time rasterization, featuring models made in Blender.
 
-![c-3d-rasterizer](https://github.com/user-attachments/assets/9da40ee3-e980-498e-9590-33a7b170af7f)
+![c-3d-rasterizer](https://github.com/user-attachments/assets/517ec5f0-f045-4e5a-a99f-d409e5ad727a)
 > [!NOTE]
 > I would eventually like to return to this to implement a parallel / subpixel rasterization method.
 
